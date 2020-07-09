@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I’m Stefano, a Software Engineer from Sicily (Italy) who is now living and working in Scotland (UK).
+
+I am passionate about software development, machine learning, and scientific research. I love learning, I enjoy working with new technologies, and I often contribute to open source software.
+
+I received my BSc with Honours in Applied Computing in June 2019 at the University of Stirling. For my 4th year dissertation, I used machine learning to analyse messages on social media to determine whether it is feasible to detect criminal or anti-social behaviour.
+
+I am currently working as a Junior Software Engineer at WRLD3D.
+
+If you want to know more, please visit my [website](https://stefanofrazzetto.com/)!
+
 <!--
 **StefanoFrazzetto/StefanoFrazzetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
