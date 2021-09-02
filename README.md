@@ -1,26 +1,53 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-I’m Stefano, a Software Engineer from Sicily (Italy) who is now living and working in Scotland (UK).
+I am Stefano Frazzetto and I'm a **Junior Software Engineer** at <a href="wrld3d.com" rel="noopener" target="_blank">WRLD</a>. I have many passions, with the latest one being 3D printing, and I often try to work on projects that combine them.
 
-I am passionate about software development, machine learning, and scientific research. I love learning, I enjoy working with new technologies, and I often contribute to open source software.
+If you want to reach me:
 
-I received my BSc with Honours in Applied Computing in June 2019 at the University of Stirling. For my 4th year dissertation, I used machine learning to analyse messages on social media to determine whether it is feasible to detect criminal or anti-social behaviour.
+- 📫 <a href="mailto:stefano+github-profile@hey.com">Email</a>
+- 🐦<a href="https://www.twitter.com/s_frazzetto" rel="nofollow noreferrer">Twitter</a>
+- 🔗 <a href="https://www.linkedin.com/in/stefanofrazzetto/" rel="nofollow noreferrer">LinkedIn</a>
+- 🌐 <a href="https://stefanofrazzetto.com">Website</a>
 
-I am currently working as a Junior Software Engineer at WRLD3D.
+<br>
 
-If you want to know more, please visit my [website](https://stefanofrazzetto.com/)!
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=StefanoFrazzetto&show_icons=true&" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=StefanoFrazzetto&hide_border=true" width = 400>
+</p>
 
-<!--
-**StefanoFrazzetto/StefanoFrazzetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+***
 
-Here are some ideas to get you started:
+#### Are you still reading? 😲
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here's some more info about me!
+
+I have ~~broken~~ written software with the following
+* [x] Bash
+* [x] C# 
+* [x] C++
+* [x] CSS
+* [ ] Haskell
+* [x] HTML5
+* [x] Java 
+* [x] JavaScript
+* [x] PHP
+* [x] Python
+* [x] React 
+* [ ] Scala
+* [x] SCSS
+* [x] SQL
+
+I use most of the following tools daily
+- [x] AWS
+- [ ] Azure
+- [x] Docker
+- [ ] GCP
+- [x] Git
+- [x] Jira
+- [x] Linux (Debian/Ubuntu)
+- [x] QGI
+- [x] Slack
+- [x] Terraform
+- [x] TeamCity
+
