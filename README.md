@@ -46,7 +46,7 @@ I use most of the following tools daily
 - [x] Git
 - [x] Jira
 - [x] Linux (Debian/Ubuntu)
-- [x] QGI
+- [x] QGIS
 - [x] Slack
 - [x] Terraform
 - [x] TeamCity
