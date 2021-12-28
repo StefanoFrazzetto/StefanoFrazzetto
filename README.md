@@ -33,8 +33,8 @@ Born and raised in Sicily (Italy), I moved to Scotland in 2015. While studying f
 
 <h3 align="left">GitHub Stats:</h3>
 <p align = "center">
-  <img align="left" src = "https://github-readme-stats.vercel.app/api?username=StefanoFrazzetto&show_icons=true&count_private=true&theme=react" width = 450>
-  <img src = "http://github-readme-streak-stats.herokuapp.com?user=StefanoFrazzetto&theme=react&date_format=M%20j%5B%2C%20Y%5D" width = 450>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=StefanoFrazzetto&show_icons=true&count_private=true&theme=react" width="48%">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=StefanoFrazzetto&theme=react&date_format=M%20j%5B%2C%20Y%5D" width="48%">
 </p>
 
 
