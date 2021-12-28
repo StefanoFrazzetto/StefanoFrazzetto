@@ -1,53 +1,40 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+<h1 align="center">Hi 👋, I'm Stefano</h1>
+<!-- <h3 align="center">A passionate Software Engineer from Italy, now living in the UK</h3> -->
 
-I am Stefano Frazzetto and I'm a **Junior Software Engineer** at <a href="wrld3d.com" rel="noopener" target="_blank">WRLD</a>. I have many passions, with the latest one being 3D printing, and I often try to work on projects that combine them.
+Born and raised in Sicily (Italy), I moved to Scotland in 2015. While studying for my degree, I worked on several different projects as a freelance web developer. During my internship at <a href="https://cyanforensics.com" rel="noopener noreferrer" target="_blank">Cyan Forensics</a> in 2018, I contributed to software that is currently used by law enforcement agencies around the world. After receiving my BSc in Applied Computing in 2019, I joined <a href="https://www.wrld3d.com" target="_blank">WRLD3D</a> as a Junior Software Engineer, where I currently contribute to making interactive 3D maps.
 
-If you want to reach me:
+<h3 align="left">Some of the things I enjoy:</h3>
+<ul>
+  <li>Using code to automate complex tasks 🤖</li>
+  <li>Working on interesting projects 👨‍🔬</li>
+  <li>Reading a good book to relax 📚</li>
+  <li>Being creative in the kitchen 👨‍🍳</li>
+</ul>
 
-- 📫 <a href="mailto:stefano+github-profile@hey.com">Email</a>
-- 🐦<a href="https://www.twitter.com/s_frazzetto" rel="nofollow noreferrer">Twitter</a>
-- 🔗 <a href="https://www.linkedin.com/in/stefanofrazzetto/" rel="nofollow noreferrer">LinkedIn</a>
-- 🌐 <a href="https://stefanofrazzetto.com">Website</a>
-
-<br>
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=StefanoFrazzetto&show_icons=true&" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=StefanoFrazzetto&hide_border=true" width = 400>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="mailto:stefano@hey.com?subject=GitHub Profile" target="_blank"><img align="center" src="https://github.com/gilbarbara/logos/blob/master/logos/google-gmail.svg" alt="Email" height="30" width="35" /></a>
+<a href="https://twitter.com/s_frazzetto" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/stefanofrazzetto" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/5874339" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="StackOverflow" height="30" width="40" /></a>
 </p>
 
-***
+<h3 align="left">Languages and Tools:</h3>
 
-#### Are you still reading? 😲
+|   |Tech|
+|---|---|
+|Frontend|![React](https://img.shields.io/badge/-React-050F2C?style=flat&logo=react)&nbsp;![TypeScript](https://img.shields.io/badge/-TypeScript-050F2C?style=flat&logo=typescript)&nbsp;![Material UI](https://img.shields.io/badge/-Material%20UI-050F2C?style=flat&logo=mui)&nbsp;![HTML5](https://img.shields.io/badge/-HTML5-050F2C?style=flat&logo=HTML5)&nbsp;![CSS](https://img.shields.io/badge/-CSS-050F2C?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;![SASS](https://img.shields.io/badge/-SASS-050F2C?style=flat&logo=SASS)&nbsp;|
+|Backend|![Python](https://img.shields.io/badge/-Python-050F2C?style=flat&logo=python)&nbsp;![Basg](https://img.shields.io/badge/-Bash-050F2C?style=flat&logo=gnubash)&nbsp;![C++](https://img.shields.io/badge/-C++-050F2C?style=flat&logo=cplusplus)&nbsp;![C#](https://img.shields.io/badge/-C%23-050F2C?style=flat&logo=c-sharp)&nbsp;![Java](https://img.shields.io/badge/-Java-050F2C?style=flat&logo=Java&logoColor=FFA518)&nbsp;![PHP](https://img.shields.io/badge/-PHP-050F2C?style=flat&logo=PHP&logoColor=FFA518)&nbsp;|
+|Database|![MySQL](https://img.shields.io/badge/-MySQL-050F2C?style=flat&logo=mysql)&nbsp;![Postgres](https://img.shields.io/badge/-Postgres-050F2C?style=flat&logo=postgresql)&nbsp;![DynamoDB](https://img.shields.io/badge/-DynamoDB-050F2C?style=flat&logo=amazondynamodb)&nbsp;|
+|Infrastructure|![AWS](https://img.shields.io/badge/-AWS-050F2C?style=flat&logo=amazonaws)&nbsp;![Heroku](https://img.shields.io/badge/-Heroku-050F2C?style=flat&logo=heroku&logoColor=79589F)&nbsp;![Datadog](https://img.shields.io/badge/-Datadog-050F2C?style=flat&logo=datadog)&nbsp;![Docker](https://img.shields.io/badge/-Docker-050F2C?style=flat&logo=docker)&nbsp;![Plesk](https://img.shields.io/badge/-Plesk-050F2C?style=flat&logo=plesk)&nbsp;![Terraform](https://img.shields.io/badge/-Terraform-050F2C?style=flat&logo=terraform)&nbsp;|
+|CI/CD|![Teamcity](https://img.shields.io/badge/TeamCity-050F2C.svg?style=flat&logo=teamcity&logoColor=white)&nbsp;![GitHub Actions](https://img.shields.io/badge/Github%20Actions-050F2C.svg?style=flat&logo=githubactions&logoColor=white)&nbsp;![Packer](https://img.shields.io/badge/-Packer-050F2C?style=flat&logo=packer)&nbsp;![TravisCI](https://img.shields.io/badge/TravisCI-050F2C.svg?style=flate&logo=travis&logoColor=white)
+|Workspace|![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-050F2C?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;![CLion](https://img.shields.io/badge/-CLion-050F2C?style=flat&logo=clion)&nbsp;![PyCharm](https://img.shields.io/badge/-PyCharm-050F2C?style=flat&logo=pycharm)&nbsp;![Git](https://img.shields.io/badge/-Git-050F2C?style=flat&logo=git)&nbsp;![GitHub](https://img.shields.io/badge/-GitHub-050F2C?style=flat&logo=github)&nbsp;![Jira](https://img.shields.io/badge/-Jira-050F2C?style=flat&logo=jira)&nbsp;|
+|Misc|![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-050F2C?style=flat&logo=azuredevops)&nbsp;![LaTeX](https://img.shields.io/badge/-LaTeX-050F2C?style=flat&logo=latex)&nbsp;![Tableau](https://img.shields.io/badge/-Tableau-050F2C?style=flat&logo=tableau)&nbsp;![scikit-learn](https://img.shields.io/badge/-scikit_learn-050F2C?style=flat&logo=scikitlearn)&nbsp;![TensorFlow](https://img.shields.io/badge/-TensorFlow-050F2C?style=flat&logo=tensorflow)&nbsp;|
 
-Here's some more info about me!
+<h3 align="left">GitHub Stats:</h3>
+<p align = "center">
+  <img align="left" src = "https://github-readme-stats.vercel.app/api?username=StefanoFrazzetto&show_icons=true&count_private=true&theme=react" width = 450>
+  <img src = "http://github-readme-streak-stats.herokuapp.com?user=StefanoFrazzetto&theme=react&date_format=M%20j%5B%2C%20Y%5D" width = 450>
+</p>
 
-I have ~~broken~~ written software with the following
-* [x] Bash
-* [x] C# 
-* [x] C++
-* [x] CSS
-* [ ] Haskell
-* [x] HTML5
-* [x] Java 
-* [x] JavaScript
-* [x] PHP
-* [x] Python
-* [x] React 
-* [ ] Scala
-* [x] SCSS
-* [x] SQL
-
-I use most of the following tools daily
-- [x] AWS
-- [ ] Azure
-- [x] Docker
-- [ ] GCP
-- [x] Git
-- [x] Jira
-- [x] Linux (Debian/Ubuntu)
-- [x] QGIS
-- [x] Slack
-- [x] Terraform
-- [x] TeamCity
 
