@@ -21,8 +21,8 @@ Born and raised in Sicily (Italy), I moved to Scotland in 2015. While studying f
 
 <h3 align="left">Languages and Tools:</h3>
 
-|   |Tech|
-|---|---|
+|Context|Technology|
+|:---|---|
 |Frontend|![React](https://img.shields.io/badge/-React-050F2C?style=flat&logo=react)&nbsp;![TypeScript](https://img.shields.io/badge/-TypeScript-050F2C?style=flat&logo=typescript)&nbsp;![Material UI](https://img.shields.io/badge/-Material%20UI-050F2C?style=flat&logo=mui)&nbsp;![HTML5](https://img.shields.io/badge/-HTML5-050F2C?style=flat&logo=HTML5)&nbsp;![CSS](https://img.shields.io/badge/-CSS-050F2C?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;![SASS](https://img.shields.io/badge/-SASS-050F2C?style=flat&logo=SASS)&nbsp;|
 |Backend|![Python](https://img.shields.io/badge/-Python-050F2C?style=flat&logo=python)&nbsp;![Basg](https://img.shields.io/badge/-Bash-050F2C?style=flat&logo=gnubash)&nbsp;![C++](https://img.shields.io/badge/-C++-050F2C?style=flat&logo=cplusplus)&nbsp;![C#](https://img.shields.io/badge/-C%23-050F2C?style=flat&logo=c-sharp)&nbsp;![Java](https://img.shields.io/badge/-Java-050F2C?style=flat&logo=Java&logoColor=FFA518)&nbsp;![PHP](https://img.shields.io/badge/-PHP-050F2C?style=flat&logo=PHP&logoColor=FFA518)&nbsp;|
 |Database|![MySQL](https://img.shields.io/badge/-MySQL-050F2C?style=flat&logo=mysql)&nbsp;![Postgres](https://img.shields.io/badge/-Postgres-050F2C?style=flat&logo=postgresql)&nbsp;![DynamoDB](https://img.shields.io/badge/-DynamoDB-050F2C?style=flat&logo=amazondynamodb)&nbsp;|
