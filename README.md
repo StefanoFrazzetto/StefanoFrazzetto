@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stefano</h1>
 <!-- <h3 align="center">A passionate Software Engineer from Italy, now living in the UK</h3> -->
 
-Born and raised in Sicily (Italy), I moved to Scotland in 2015. While studying for my degree, I worked on several different projects as a freelance web developer. During my internship at <a href="https://cyanforensics.com" rel="noopener noreferrer" target="_blank">Cyan Forensics</a> in 2018, I contributed to software that is currently used by law enforcement agencies around the world. After receiving my BSc in Applied Computing in 2019, I joined <a href="https://www.wrld3d.com" target="_blank">WRLD3D</a> as a Junior Software Engineer, where I contributed to making cross-platform, interactive 3D maps. In March 2022, I joined <a href="https://www.wrld3d.com" target="_blank">Infinity Works</a> (part of Accenture) as Consultant. 
+Born and raised in Sicily (Italy), I moved to Scotland in 2015. While studying for my degree, I worked on several different projects as a freelance web developer. During my internship at <a href="https://cyanforensics.com" rel="noopener noreferrer" target="_blank">Cyan Forensics</a> in 2018, I contributed to software that is currently used by law enforcement agencies around the world. After receiving my BSc in Applied Computing in 2019, I joined <a href="https://www.wrld3d.com" target="_blank">WRLD3D</a> as a Junior Software Engineer, where I contributed to making cross-platform, interactive 3D maps. In March 2022, I joined <a href="https://www.infinityworks.com/" target="_blank">Infinity Works</a> (part of <a href="https://www.accenture.com/us-en" target="_blank">Accenture</a>) as Consultant. 
 
 <h3 align="left">Some of the things I enjoy:</h3>
 <ul>
