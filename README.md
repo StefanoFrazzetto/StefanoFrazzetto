@@ -13,7 +13,7 @@ Born and raised in Sicily (Italy), I moved to Scotland in 2015. While studying f
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto:stefano@hey.com?subject=GitHub Profile" target="_blank"><img align="center" src="https://github.com/gilbarbara/logos/blob/master/logos/google-gmail.svg" alt="Email" height="30" width="35" /></a>
+<a href="mailto:stefano@hey.com?subject=GitHub Profile" target="_blank"><img align="center" src="https://github.com/gilbarbara/logos/blob/main/logos/google-gmail.svg" alt="Email" height="30" width="35" /></a>
 <a href="https://twitter.com/s_frazzetto" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/stefanofrazzetto" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/5874339" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="StackOverflow" height="30" width="40" /></a>
