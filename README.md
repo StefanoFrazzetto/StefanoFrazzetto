@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stefano</h1>
 <!-- <h3 align="center">A passionate Software Engineer from Italy, now living in the UK</h3> -->
 
-Born and raised in Sicily (Italy), I moved to Scotland in 2015. While studying for my degree, I worked on several different projects as a freelance web developer. During my internship at <a href="https://cyanforensics.com" rel="noopener noreferrer" target="_blank">Cyan Forensics</a> in 2018, I contributed to software that is currently used by law enforcement agencies around the world. After receiving my BSc in Applied Computing in 2019, I joined <a href="https://www.wrld3d.com" target="_blank">WRLD3D</a> as a Junior Software Engineer, where I contributed to making cross-platform, interactive 3D maps. In March 2022, I joined <a href="https://www.infinityworks.com/" target="_blank">Infinity Works</a> (part of <a href="https://www.accenture.com/us-en" target="_blank">Accenture</a>) as Consultant. 
+Born and raised in Sicily (Italy), I moved to Scotland in 2015. While studying for my degree, I worked on several different projects as a freelance web developer. During my internship at <a href="https://cyanforensics.com" rel="noopener noreferrer" target="_blank">Cyan Forensics</a> in 2018, I contributed to software that is currently used by law enforcement agencies around the world. After receiving my BSc in Applied Computing in 2019, I joined <a href="https://www.wrld3d.com" target="_blank">WRLD3D</a> as a Junior Software Engineer, where I contributed to making cross-platform, interactive 3D maps. In March 2022, I joined <a href="https://www.infinityworks.com/" target="_blank">Infinity Works</a> (part of <a href="https://www.accenture.com/us-en" target="_blank">Accenture</a>) as a Software Engineering Consultant. 
 
 <h3 align="left">Some of the things I enjoy:</h3>
 <ul>
@@ -31,10 +31,10 @@ Born and raised in Sicily (Italy), I moved to Scotland in 2015. While studying f
 |Workspace|![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-050F2C?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;![CLion](https://img.shields.io/badge/-CLion-050F2C?style=flat&logo=clion)&nbsp;![PyCharm](https://img.shields.io/badge/-PyCharm-050F2C?style=flat&logo=pycharm)&nbsp;![Git](https://img.shields.io/badge/-Git-050F2C?style=flat&logo=git)&nbsp;![GitHub](https://img.shields.io/badge/-GitHub-050F2C?style=flat&logo=github)&nbsp;![Jira](https://img.shields.io/badge/-Jira-050F2C?style=flat&logo=jira)&nbsp;|
 |Misc|![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-050F2C?style=flat&logo=azuredevops)&nbsp;![LaTeX](https://img.shields.io/badge/-LaTeX-050F2C?style=flat&logo=latex)&nbsp;![Tableau](https://img.shields.io/badge/-Tableau-050F2C?style=flat&logo=tableau)&nbsp;![scikit-learn](https://img.shields.io/badge/-scikit_learn-050F2C?style=flat&logo=scikitlearn)&nbsp;![TensorFlow](https://img.shields.io/badge/-TensorFlow-050F2C?style=flat&logo=tensorflow)&nbsp;|
 
-<h3 align="left">GitHub Stats:</h3>
+<!-- <h3 align="left">GitHub Stats:</h3>
 <p align = "center">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=StefanoFrazzetto&show_icons=true&count_private=true&theme=react" width="48%">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=StefanoFrazzetto&theme=react&date_format=M%20j%5B%2C%20Y%5D" width="48%">
-</p>
+</p> -->
 
 
